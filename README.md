@@ -1,16 +1,32 @@
-## Hi there 👋
+👋 Hi, I'm Caio Silva!
+🐍 Python Developer | 🛡️ Cybersecurity Enthusiast | SOC Analyst in Progress
 
-<!--
-**caiosantos1738-blip/caiosantos1738-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about technology, cybersecurity, Linux systems, networking, and Python automation.
 
-Here are some ideas to get you started:
+I'm constantly learning and building practical projects to improve my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Technologies & Tools
+Programming: Python
+Operating Systems: Linux
+Networking: TCP/IP, DNS, Network Troubleshooting
+Cybersecurity: Blue Team, Log Analysis, MITRE ATT&CK
+Tools: Git, GitHub, Pytest
+💻 Featured Projects
+
+🔹 SSH Log Analyzer
+
+Python tool for detecting suspicious SSH authentication activity.
+
+🔹 IT Troubleshooting Toolkit
+
+Python toolkit for Linux and network diagnostics.
+
+🎯 Currently Learning
+Python development and automation
+Security monitoring and threat detection
+Linux administration
+SOC operations and incident response
+📫 Connect with me
+GitHub: @caiosantos1738-blip
+
+⭐ Always learning, building, and improving!
