@@ -28,6 +28,7 @@ Python development and automation
 Security monitoring and threat detection
 Linux administration
 SOC operations and incident response
+
 📫 Connect with me
 GitHub: @caiosantos1738-blip
 LinkeIn: https://www.linkedin.com/in/caio-silva-11083a225/
