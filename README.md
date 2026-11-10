@@ -12,6 +12,7 @@ Operating Systems: Linux
 Networking: TCP/IP, DNS, Network Troubleshooting
 Cybersecurity: Blue Team, Log Analysis, MITRE ATT&CK
 Tools: Git, GitHub, Pytest
+
 💻 Featured Projects
 
 🔹 SSH Log Analyzer
@@ -29,5 +30,6 @@ Linux administration
 SOC operations and incident response
 📫 Connect with me
 GitHub: @caiosantos1738-blip
+LinkeIn: https://www.linkedin.com/in/caio-silva-11083a225/
 
 ⭐ Always learning, building, and improving!
