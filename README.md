@@ -1,4 +1,5 @@
 👋 Hi, I'm Caio Silva!
+
 🐍 Python Developer | 🛡️ Cybersecurity Enthusiast | SOC Analyst in Progress
 
 I'm passionate about technology, cybersecurity, Linux systems, networking, and Python automation.
